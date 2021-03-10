@@ -1,0 +1,15 @@
+
+* {
+  background-color: black;
+  color: white;
+}
+.App {
+  text-align: center;
+
+}
+
+.row {
+  justify-content: center;
+  margin: 10px 0;
+}
+
